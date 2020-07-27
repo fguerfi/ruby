@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 # for backward compatibility
-warn "Win32API is deprecated after Ruby 1.9.1; use fiddle directly instead", uplevel: 2
+#warn "Win32API is deprecated after Ruby 1.9.1; use fiddle directly instead", uplevel: 2
 
 require 'fiddle/import'
 
